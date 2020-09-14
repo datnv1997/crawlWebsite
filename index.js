@@ -1,5 +1,5 @@
 const scrape = require('website-scraper');
-const websiteUrl = 'https://bestwebcreator.com/shopwise/demo/';
+const websiteUrl = 'https://www.nobleui.com/';
 
 scrape({
   urls: [websiteUrl],
